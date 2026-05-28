@@ -1,0 +1,14 @@
+{
+  "name": "nexus-vault-mcp",
+  "version": "1.0.0",
+  "description": "Nexus Vault MCP Server — Vault access for any MCP-compatible LLM",
+  "main": "nexus-vault.js",
+  "type": "module",
+  "scripts": {
+    "start": "node nexus-vault.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zenn-cli": "^0.4.8"
+  }
+}
