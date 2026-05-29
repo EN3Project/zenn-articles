@@ -80,13 +80,13 @@ flowchart TD
     H --> O[パターン2で本番運用]
     K --> P[パターン3で本番運用]
 
-    style D fill:#90EE90
-    style H fill:#87CEEB
-    style K fill:#FFA07A
-    style M fill:#90EE90
-    style N fill:#FFD700
-    style O fill:#87CEEB
-    style P fill:#FFA07A
+    style D fill:#90EE90,color:#333
+    style H fill:#87CEEB,color:#333
+    style K fill:#FFA07A,color:#333
+    style M fill:#90EE90,color:#333
+    style N fill:#FFD700,color:#333
+    style O fill:#87CEEB,color:#333
+    style P fill:#FFA07A,color:#333
 ```
 
 ## 3つのパターンを整理してみた
